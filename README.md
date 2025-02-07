@@ -5,7 +5,7 @@ A command-line tool for parsing EDI claims files to JSON format.
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/edi-parser.git
+pip install git+https://github.com/axellarsstenson/edi-parser.git
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ edi-parser --help
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/edi-parser.git
+git clone https://github.com/axellarsstenson/edi-parser.git
 cd edi-parser
 ```
 
